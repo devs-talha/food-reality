@@ -35,7 +35,7 @@
 
 ### Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript (React)
+- **Frontend:** HTML, CSS, JavaScript (React), NextJS
 - **Backend:** Flask (Python)
 - **Database:** PostgreSQL
 - **AR Technologies:** Three.js, WebAR, A-Frame
